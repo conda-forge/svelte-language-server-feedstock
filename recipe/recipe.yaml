@@ -1,5 +1,5 @@
 context:
-  version: "0.17.26"
+  version: "0.17.27"
 
 package:
   name: svelte-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/svelte-language-server/-/svelte-language-server-${{ version }}.tgz
-  sha256: f2032843c19641adbda4534e6e084ba7500c1b7871ce58c8f74ec4a8a240571d
+  sha256: 723aa812ef0534ff859930b9e84a9a7b20fa86e0fbcf8d118716568b7761a88d
 
 build:
   number: 0
